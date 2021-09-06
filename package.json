@@ -1,0 +1,11 @@
+{
+    "name": "jozesclevau-bot",
+    "author": "r47orr",
+    "version": "1.0.0",
+    "description": "Um projeto em JavaScript. BOT para a comunidade GMBR do Discord.",
+    "main": "/index.js",
+    "private": false,
+    "dependencies": {
+      "discord.js": "13.1.0"
+    }
+}
